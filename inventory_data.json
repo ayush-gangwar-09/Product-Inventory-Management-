@@ -1,0 +1,32 @@
+{
+    "cs213": {
+        "product_id": "cs213",
+        "name": "Robot",
+        "quantity": 2,
+        "price": 150000.0
+    },
+    "cs321": {
+        "product_id": "cs321",
+        "name": "asus vivobook 16x",
+        "quantity": 23,
+        "price": 55000.0
+    },
+    "cs412": {
+        "product_id": "cs412",
+        "name": "Lenevo LOQ",
+        "quantity": 43,
+        "price": 70000.0
+    },
+    "cs523": {
+        "product_id": "cs523",
+        "name": "HP Victus ",
+        "quantity": 12,
+        "price": 65000.0
+    },
+    "mp121": {
+        "product_id": "mp121",
+        "name": "Realme P3 pro ",
+        "quantity": 34,
+        "price": 18000.0
+    }
+}
