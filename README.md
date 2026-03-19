@@ -67,4 +67,4 @@ The system supports adding, updating, deleting, searching, and viewing products 
 • Export inventory reports
 
 ## 👨‍💻 Author
-**Ayush Gangwar**
+**Ayush Kumar**
